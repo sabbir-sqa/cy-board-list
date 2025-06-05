@@ -37,6 +37,8 @@ npx cypress open
 # Or run headlessly in CLI
 npx cypress run
 
+```
+
 ### Postman API Tests
 
 1.  Download the following files from this repo:
