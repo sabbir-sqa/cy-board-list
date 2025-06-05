@@ -34,8 +34,7 @@ npm install
 # Open Cypress Test Runner
 npx cypress open
 
-# Or run headlessly in CLI
-npx cypress run
+
 
 ```
 
